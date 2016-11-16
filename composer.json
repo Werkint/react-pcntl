@@ -1,5 +1,8 @@
 {
-    "name": "mkraemer/react-pcntl",
+    "name": "werkint/react-pcntl",
+    "replace": {
+        "mkraemer/react-pcntl": "v2.1.0"
+    },
     "description": "PCNTL bindings for ReactPHP",
     "keywords": ["pcntl", "react"],
     "license": "MIT",
